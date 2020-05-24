@@ -3,3 +3,11 @@
 [[package]]
 name = "LangBase1"
 version = "0.1.0"
+
+[[package]]
+name = "collections"
+version = "0.1.0"
+dependencies = [
+ "LangBase1 0.1.0",
+]
+
